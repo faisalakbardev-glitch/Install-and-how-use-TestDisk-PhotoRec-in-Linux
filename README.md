@@ -1,15 +1,14 @@
 ##  HOW TO INSTALL TestDisk & PhotoRec
 
 ## Lakukan Update dan instalasi testdisk
-sudo apt update && sudo install testdisk -y
+     sudo apt update && sudo install testdisk -y
 
 ## PANDUAN RINGKAS RECOVERY DATA DENGAN PHOTOREC (UBUNTU)
 ======================================================
 
 1. INSTALASI & MENJALANKAN
    - Buka Terminal (Ctrl+Alt+T).
-   - Jalankan perintah instalasi:
-     sudo apt update && sudo apt install testdisk -y
+   - Jalankan perintah instalasi
    - Jalankan aplikasinya:
      sudo photorec
 
